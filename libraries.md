@@ -1,1 +1,1 @@
-# Rant against libraries
+# Rants against libraries
