@@ -1,5 +1,5 @@
 # Awesome Rant
-An agnostic collection of your best rant against frameworks, languages and in general techs
+An agnostic collection of the best rant against frameworks, languages and in general techs
 
 ## Why?
 The right question is: why not?
