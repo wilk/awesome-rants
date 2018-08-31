@@ -1,5 +1,5 @@
-# Awesome Rant 🤬
-An agnostic collection of the best rant against frameworks, languages and in general techs
+# Awesome Rants 🤬
+An agnostic collection of the best rants against frameworks, languages and in general techs
 
 ## Why?
 The right question is: why not?
@@ -13,7 +13,7 @@ This project helps you to feel in good company because you need this, dude.
 I need your help. I know you're getting frustrated from that $technology (pick up your favourite).
 Then, what are you waiting for?
 
-Submit a PR and raise your voice, your inner feeling, your untold rant against:
+Submit a PR and raise your voice, your inner feeling, your untold rants against:
 
 - [languages](languages.md)
 - [frameworks](frameworks.md)
