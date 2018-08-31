@@ -1,1 +1,1 @@
-# Rant against frameworks
+# Rants against frameworks
