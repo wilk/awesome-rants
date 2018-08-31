@@ -1,4 +1,4 @@
-# Awesome Rant
+# Awesome Rant 🤬
 An agnostic collection of the best rant against frameworks, languages and in general techs
 
 ## Why?
