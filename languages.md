@@ -1,1 +1,1 @@
-# Rant against languages
+# Rants against languages
